@@ -12,3 +12,42 @@ border-radius: 20px 20px 20px 20px;}
 .asukaposttemp h2 {text-align: left; border-bottom:5px solid #686868;display:block;background-color:#fffff;color:#686868;margin-top:0;margin-bottom:0;padding:9px;font-weight: bolder;font-family: 'Pacifico', cursive;font-size:33px;}
 .asukaposttemp b {font-size:18px;color:#AA7676;text-shadow: 1px 1px 2px #000000;text-transform:uppercase;}
 .asukaposttemp i {color:#767FAA;font-size:15px;}
+
+
+
+
+
+
+
+.skyeprowerposttemp {
+  color: #545454;
+  border: 10px solid #d1ae7c;
+  width: 500px;
+  padding: 20px;
+  text-align: justify;
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.skyeprowerposttemp h2 {
+  border-left: 50px double #7c8ad1;
+  padding: 5px;
+  color: #7c8ad1;
+  margin-top: 0;
+  text-align: left;
+  font-size:30px;
+}
+
+.skyeprowerposttemp hr {margin-top:-15px !important;}
+
+.skyeprowerposttemp i {
+  color: #6682b4;
+  text-shadow: 1px 1px 5px #4f5764;
+  font-size: 17px;
+}
+
+.skyeprowerposttemp b {
+  color: #9b462c;
+  text-transform: uppercase;
+  font-size: 12px;
+}
