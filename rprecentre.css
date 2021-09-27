@@ -1,9 +1,13 @@
+/* GWYN ZINFIEL */
+
+
 .gwynposttemp {background-color:#9B897B;color:#ffffff;padding:50px;font-size:15px;text-align:justify;width:400px;} 
 .gwynposttemp h2 {text-transform:uppercase;letter-spacing:5px;border-bottom:5px solid #ffffff;}
 .gwynposttemp b {color:#101010;font-size:17px;} 
 .gwynposttemp i {color:#C64242;}
 
 
+/* ASUKA HAYASHI */
 
 
 .asukaposttemp {border:13px solid #8BA2D3;width:500px;-webkit-border-radius: 20px 20px 20px 20px;
@@ -17,6 +21,7 @@ border-radius: 20px 20px 20px 20px;}
 
 
 
+/* SKYE PROWER */
 
 
 .skyeprowerposttemp {
@@ -51,3 +56,58 @@ border-radius: 20px 20px 20px 20px;}
   text-transform: uppercase;
   font-size: 12px;
 }
+
+
+
+
+/* KAGAMINE LEN */
+
+.lenposttemp {
+  width: 450px;
+  margin: 0 auto;
+  padding: 50px;
+  background-color: #AC960C;
+}
+
+.lenposttemp h2 {
+  font-size: 60px;
+  margin-top: -25px;
+  margin-bottom: -15px;
+  font-family: "Lobster", cursive;
+  letter-spacing: 7px;
+  color:#CFB300;
+  text-shadow: 2px 5px 1px #000000;
+  text-align:center;
+}
+
+.lentext {
+  padding: 30px;
+  text-align: justify;
+  height: 300px;
+  overflow: auto;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.lentext b {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 900;
+  color: #000000;
+}
+.lentext i {
+  font-size: 15px;
+  color: #075100;
+}
+
+.lenposticons {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0 auto;
+  background-color: #ffffff;
+}
+.lenposticons img {
+  margin-left: 30px;
+}
+
+
