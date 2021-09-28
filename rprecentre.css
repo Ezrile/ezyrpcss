@@ -125,7 +125,8 @@
   width: 450px;
   margin: 0 auto;
   padding: 50px;
-  background-color: #AC960C;
+  background-color: #ac960c;
+  background-image: url("https://i.imgur.com/V084cAN.jpg");
 }
 
 .lenposttemp h2 {
@@ -134,9 +135,9 @@
   margin-bottom: 7px;
   font-family: "Lobster", cursive;
   letter-spacing: 7px;
-  color:#CFB300;
+  color: #cfb300;
   text-shadow: 2px 5px 1px #000000;
-  text-align:center;
+  text-align: center;
 }
 
 .lentext {
@@ -146,6 +147,9 @@
   overflow: auto;
   background-color: #ffffff;
   color: #000000;
+  border-left: 2px solid #000000;
+  border-right: 2px solid #000000;
+  border-top: 2px solid #000000;
 }
 
 .lentext b {
@@ -164,9 +168,10 @@
   padding-bottom: 20px;
   margin: 0 auto;
   background-color: #ffffff;
+  border-left: 2px solid #000000;
+  border-right: 2px solid #000000;
+  border-bottom: 2px solid #000000;
 }
 .lenposticons img {
   margin-left: 30px;
 }
-
-
