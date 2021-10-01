@@ -1,0 +1,57 @@
+.pkmn {
+  width: 400px;
+  border: 0px solid #000000;
+  margin: 0 auto;
+  background-color:#ff0000;
+  color:#ffffff;
+  padding:15px;
+}
+.pkmnbox {
+  padding: 10px;
+  height: 310px;
+  overflow: auto;
+}
+.pkmn h2 {
+  border-bottom: 5px solid #000000;
+  padding: 5px;
+  margin-bottom: 4px;
+  text-transform: uppercase;
+}
+
+.pkmn li {
+  list-style: none;
+  margin-bottom:10px;
+  line-height:20px;
+  font-size:15px;
+}
+
+.pkmnbox li::before {
+  content: url(https://i.imgur.com/wgSqYbi.png);
+  padding:5px;
+}
+
+.pkmnbox .pkmnmale {
+  color:blue;
+  font-weight:900;
+}
+.pkmnbox .pkmn-male::before {
+  color:#ffffff;
+  font-weight:900;
+  content: "♀ Male";
+     background:#0068FF;
+  padding:5px;
+  font-size:11px;
+  -webkit-border-radius: 50px 50px 50px 50px;
+border-radius: 50px 50px 50px 50px;
+}
+
+.pkmnbox .pkmn-female::before {
+  color:#ffffff;
+  font-weight:900;
+    content: "♂ Female";
+     background:#FF00D1;
+  padding:5px;
+  font-size:11px;
+  -webkit-border-radius: 50px 50px 50px 50px;
+border-radius: 50px 50px 50px 50px;
+}
