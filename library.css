@@ -1,0 +1,26 @@
+.library {
+  width: 400px;
+  border: 0px solid #000000;
+  margin: 0 auto;
+}
+.librarybox {
+  padding: 10px;
+  height: 150px;
+  overflow: auto;
+}
+.library h2 {
+  border-bottom: 5px solid #000000;
+  padding: 5px;
+  margin-bottom: 4px;
+  text-transform: uppercase;
+}
+
+.library li {
+  list-style: none;
+  margin-bottom:10px;
+  font-size:15px;
+}
+
+.library li::before {
+  content: "📘 ";
+}
