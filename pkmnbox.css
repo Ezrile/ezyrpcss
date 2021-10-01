@@ -40,7 +40,7 @@
 .pkmnbox .pkmn-male::before {
   color:#ffffff;
   font-weight:900;
-  content: "♀ Male";
+  content: "♂ Male";
      background:#0068FF;
   padding:5px;
   font-size:11px;
@@ -51,7 +51,7 @@ border-radius: 50px 50px 50px 50px;
 .pkmnbox .pkmn-female::before {
   color:#ffffff;
   font-weight:900;
-    content: "♂ Female";
+    content: "♀ Female";
      background:#FF00D1;
   padding:5px;
   font-size:11px;
