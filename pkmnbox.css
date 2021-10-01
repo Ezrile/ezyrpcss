@@ -58,3 +58,14 @@ border-radius: 50px 50px 50px 50px;
   -webkit-border-radius: 50px 50px 50px 50px;
 border-radius: 50px 50px 50px 50px;
 }
+
+.pkmnbox .pkmn-genderless::before {
+  color:#ffffff;
+  font-weight:900;
+    content: "genderless";
+     background:#878787;
+  padding:5px;
+  font-size:11px;
+  -webkit-border-radius: 50px 50px 50px 50px;
+border-radius: 50px 50px 50px 50px;
+}
