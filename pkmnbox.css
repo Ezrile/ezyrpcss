@@ -22,7 +22,7 @@
 }
 
 .pkmnbox li {
-  list-style: none;
+  list-style-type: none;
   margin-bottom:10px;
   line-height:20px;
   font-size:15px;
