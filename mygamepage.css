@@ -6,10 +6,10 @@
 
 
 /* ANIMAL CROSSING */
-    #acnl { width:450px; height:290px;border:2px solid #81ce80; margin-top:50px !important; background-color:#ffffff; margin:0 auto; margin-bottom:20px !important;}
-    #acnl h2 {background-color:#81ce80;color:#ffffff;padding:5px;margin-top:0;text-align:center;letter-spacing:5px;margin-bottom:0;}
-    #acnl #text { Padding:15px;overflow:auto;height:210px;color:#81ce80;text-align:justify;}
-	#acnl #button {text-decoration:none;font-size:15px;background-color:#81aa64;text-transform:uppercase;color:#ffffff;padding:15px;letter-spacing:5px;margin-top:50px;text-align:center;font-weight:lighter;}
+    #acnh { width:450px; height:290px;border:2px solid #81ce80; margin-top:50px !important; background-color:#ffffff; margin:0 auto; margin-bottom:20px !important;}
+    #acnh h2 {background-color:#81ce80;color:#ffffff;padding:5px;margin-top:0;text-align:center;letter-spacing:5px;margin-bottom:0;}
+    #acnh #text { Padding:15px;overflow:auto;height:210px;color:#81ce80;text-align:justify;}
+	#acnh #button {text-decoration:none;font-size:15px;background-color:#81aa64;text-transform:uppercase;color:#ffffff;padding:15px;letter-spacing:5px;margin-top:50px;text-align:center;font-weight:lighter;}
 
 
 /* FANTASY LIFE */
