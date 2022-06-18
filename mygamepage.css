@@ -1,0 +1,67 @@
+
+
+    .gamebox { width:450px; height:290px;border:2px solid #bf5252; margin-top:50px !important; background-color:#ffffff; margin:0 auto; margin-bottom:20px !important;}
+    .gamebox h2 {background-color:#bf5252;color:#ffffff;padding:5px;margin-top:0;text-align:center;letter-spacing:5px;margin-bottom:0;}
+    .gamebox .text { Padding:15px;overflow:auto;height:210px;color:#bf5252;text-align:justify;}
+
+
+/* ANIMAL CROSSING */
+    #acnl { width:450px; height:290px;border:2px solid #81ce80; margin-top:50px !important; background-color:#ffffff; margin:0 auto; margin-bottom:20px !important;}
+    #acnl h2 {background-color:#81ce80;color:#ffffff;padding:5px;margin-top:0;text-align:center;letter-spacing:5px;margin-bottom:0;}
+    #acnl #text { Padding:15px;overflow:auto;height:210px;color:#81ce80;text-align:justify;}
+	#acnl #button {text-decoration:none;font-size:15px;background-color:#81aa64;text-transform:uppercase;color:#ffffff;padding:15px;letter-spacing:5px;margin-top:50px;text-align:center;font-weight:lighter;}
+
+
+/* FANTASY LIFE */
+
+    #fantasylife { width:450px; height:290px;border:2px solid #bf5252; margin-top:50px !important; background-color:#ffffff; margin:0 auto; margin-bottom:20px !important;}
+    #fantasylife h2 {background-color:#bf5252;color:#ffffff;padding:5px;margin-top:0;text-align:center;letter-spacing:5px;margin-bottom:0;}
+    #fantasylife #text { Padding:15px;overflow:auto;height:210px;color:#bf5252;text-align:justify;}
+    
+  
+/* Blade & Soul */
+
+    #bns { width:450px; height:290px;border:2px solid #000000; margin-top:50px !important; background-color:#ffffff; margin:0 auto; margin-bottom:20px !important;}
+    #bns h2 {background-color:#000000;color:#ffffff;padding:5px;margin-top:0;text-align:center;letter-spacing:5px;margin-bottom:0;}
+    #bns #text { Padding:15px;overflow:auto;height:210px;color:#bf5252;text-align:justify;}
+    
+	
+ /* League of Legends */
+
+    #lol { width:450px; height:290px;border:2px solid #bf5252; margin-top:50px !important; background-color:#ffffff; margin:0 auto; margin-bottom:20px !important;}
+    #lol h2 {background-color:#bf5252;color:#ffffff;padding:5px;margin-top:0;text-align:center;letter-spacing:5px;margin-bottom:0;}
+    #lol #text { Padding:15px;overflow:auto;height:210px;color:#bf5252;text-align:justify;}
+    
+    
+ /* Pokemon ORAS */
+
+    #oras { width:450px; height:290px;border:2px solid #3255bc; margin-top:50px !important; background-color:#ffffff; margin:0 auto; margin-bottom:20px !important;}
+    #oras h2 {background-color:#3255bc;color:#ffffff;padding:5px;margin-top:0;text-align:center;letter-spacing:5px;margin-bottom:0;}
+    #oras #text { Padding:15px;overflow:auto;height:210px;color:#3255bc;text-align:justify;}
+    
+    
+ /* Pokemon XY */
+
+    #xy { width:450px; height:290px;border:2px solid #3255bc; margin-top:50px !important; background-color:#ffffff; margin:0 auto; margin-bottom:20px !important;}
+    #xy h2 {background-color:#3255bc;color:#ffffff;padding:5px;margin-top:0;text-align:center;letter-spacing:5px;margin-bottom:0;}
+    #xy #text { Padding:15px;overflow:auto;height:210px;color:#3255bc;text-align:justify;}
+    
+	
+	
+/* ABOUT BOX */
+    
+    #aboutbox { width:450px; height:290px; border:2px solid #89a1c6; margin-top:50px !important; margin-bottom:20px !important; background-color:#ffffff; margin:0 auto; }
+    #aboutbox h2 {background-color:#89a1c6;color:#ffffff;padding:5px;margin-top:0;text-align:center;letter-spacing:5px;margin-bottom:0;}
+    #aboutbox #text { Padding:15px;overflow:auto;height:210px;color:#89a1c6;text-align:justify;}  
+    
+
+/* Navigation */
+            #navigation {position:fixed;width:150px;display: inline-block;text-align:center;margin-top:-50px;overflow:auto;height:100%;background-color:#ffffff;}
+			.nava:link, .nava:visited {text-decoration:none;margin-bottom:5px;padding:5px;display: inline-block;color:#c98f8f;font-weight: bold;font-size:12px;text-transform:uppercase;}
+            .nava:hover {font-size:13px;border-bottom:2px solid #a05959;-webkit-transition: all 0.2s ease-in;
+				-moz-transition: all 0.2s ease-in;
+				-ms-transition: all 0.2s ease-in;
+				-o-transition: all 0.2s ease-in;
+				transition: all 0.2s ease-in;}
+			#navigation::-webkit-scrollbar {width: 6px; height: 4px; background: #ffffff; }
+			#navigation::-webkit-scrollbar-thumb { background-color: #c98f8f; -webkit-border-radius: 1ex; }
